@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.form-group {
+  width:400px;
+}
+
+.subs-label {
+  color: rgb(23, 23, 131);
+}
